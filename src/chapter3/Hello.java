@@ -9,6 +9,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+//Gitのテスト
 @WebServlet(urlPatterns={"/chapter3"})
 public class Hello extends HttpServlet {
 
